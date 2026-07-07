@@ -1,4 +1,3 @@
-````md
 # Roadmap de Estudos em C e AVR Bare Metal
 
 > Objetivo: dominar C moderno, gerenciamento de memória, estruturas de dados, manipulação de arquivos e programação bare-metal em microcontroladores AVR (Arduino Leonardo ATmega32U4), utilizando apenas C e datasheets.
@@ -539,4 +538,3 @@ gcc -Wall -Wextra -Werror -pedantic
 ---
 
 **Bons estudos.**
-````
